@@ -1,0 +1,105 @@
+<!-- Next Recipe -->
+<div id="FIXME:rec007"></div>
+<div class="post-container">
+  <div class="post-info">
+    <h4 class="dateline">FIXME:January 23, 2021</h4>
+    <h2 class="post-title">
+      FIXME:Air Fried Korean Chicken <em>&</em> Cabbage Slaw
+    </h2>
+    <p class="main-pic">
+      <img src="FIXME:/img/Recipe007/Recipe007main.jpeg" alt="FIXME:Air Fried Chicken" />
+    </p>
+    <p class="post-description">
+        FIXME:Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, amet
+      voluptatum reiciendis vero maxime voluptatibus minima consequuntur
+      nulla accusantium nemo distinctio voluptates sed. Fugit sapiente
+      iusto, perferendis, maxime aspernatur eum corrupti deleniti id
+      officia expedita totam odit? Quidem obcaecati, distinctio asperiores
+      quod sint, esse quisquam tenetur, facilis et ea quaerat. Impedit,
+      consequatur, dignissimos qui eos, dolore culpa perspiciatis quisquam
+      inventore repellat odio quo? Architecto culpa libero ipsa maiores!
+      Fugiat neque, et atque est perspiciatis, quaerat rem adipisci
+      doloremque asperiores maiores officiis exercitationem autem quisquam
+      impedit nostrum qui voluptatibus similique quam amet quae quis, quod
+      repellendus maxime praesentium. Eos, repellendus recusandae.
+    </p>
+    <p class="img-grid">
+      <div class="image-area">
+        <div class="item">
+          <img src="FIXME:/img/Recipe007/squash.jpeg" />
+          <span class="caption">FIXME:Chayote Squash</span>
+        </div>
+        <div class="item">
+          <img src="FIXME:/img/Recipe007/paste.jpeg" />
+          <span class="caption">FIXME:Gochujang Paste</span>
+        </div>
+        <div class="item">
+          <img src="FIXME:/img/Recipe007/1.jpeg" />
+          <span class="caption">FIXME:Chicken in the marinade</span>
+        </div>
+        <div class="item">
+          <img src="FIXME:/img/Recipe007/2.jpeg" />
+          <span class="caption">FIXME:Dredged chicken with spray before it goes into the air fryer</span>
+        </div>
+        <div class="item">
+          <img src="FIXME:/img/Recipe007/3.jpeg" />
+          <span class="caption">FIXME:Chicken after 2 rounds in the air fryer (15 minute on each side)</span>
+        </div>
+        <div class="item">
+          <img src="FIXME:/img/Recipe007/4.jpeg" />
+          <span class="caption">FIXME:The finished product</span>
+        </div>
+      
+    </div>
+    </p>
+  </div>
+<div id="FIXME:recipe7">
+  <div class="recipe-info">
+    <h2 class="post-title">
+        FIXME:Air Fried Korean Chicken <em>&</em> Cabbage Slaw
+    </h2>
+    <ul class="stats">
+      <li>FIXME:Yield: 4 Servings</li>
+      <li>FIXME:Prep: 60 Minutes</li>
+      <li>FIXME:Total: 90 Minutes</li>
+    </ul>
+    <div class="hr-btn">
+    <hr>
+    <button class="printButton" onclick="printContent('FIXME:recipe7')"><img src="/img/main/printer.png" alt=""></button>
+    </div>
+    <h3 class="recipe-heading">Ingredients</h3>
+    <div class="ingredient-list">
+      <div class="ingredient ing-bold"><b>FIXME:Marinade</b></div>
+      <div class="ingredient">FIXME:1 grated onion</div>
+      <div class="ingredient">FIXME:2 tbsp fish sauce</div>
+      
+    </div>
+    <hr>
+    <h3 class="recipe-instructions">The Methodology</h3>
+    <div class="recipe-section">
+        <!-- Copy and Paste as needed -->
+  <div class="instructions instruction-section">FIXME:Finishing Touches</div>
+    <p class="instructions">
+      <ul class="instruction-list no-list">FIXME:
+        <li>Grab the chicken from the oven.  Plate the dressed slaw on the side and add the piece(s) of chicken and drizzle the sauce on the chicken.  Garnish with sesame seeds and scallions.</li>
+      </ul>
+    </p>
+    <!-- End of Recipe Section-->
+  </div>
+</div>
+</div>
+<hr>
+  <h3 class="wine-rec">Wine Pairing</h3>
+  <div class="wine-pairing">
+    <p class="wine"><img src="FIXME:/img/Recipe007/wine.jpeg" alt="Wine Pairing" /></p>
+    <p class="wine-text">FIXME:
+      Because of the Asian flavors and spice of this dish, the best wine
+      pairing is a Gewurztraminer. I found a California Gewurztraminer
+      that was very fruit forward (hints of pear and honey) that was not
+      sweet. If you’re feeling red, we also paired a low acid, low tannin
+      red blend from California with this dish.
+    </p>
+  </div>
+  <hr class="end-hr">
+</div>
+<!-- End -->
